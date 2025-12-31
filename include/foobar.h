@@ -1,0 +1,4 @@
+﻿#ifndef ECS_PROJECT_FOOBAR_H
+#define ECS_PROJECT_FOOBAR_H
+
+#endif //ECS_PROJECT_FOOBAR_H
